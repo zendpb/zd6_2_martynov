@@ -1,0 +1,17 @@
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\bin\Debug\netstandard2.0\CreditApp.deps.json
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\bin\Debug\netstandard2.0\CreditApp.dll
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\bin\Debug\netstandard2.0\ref\CreditApp.dll
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\bin\Debug\netstandard2.0\CreditApp.pdb
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\CreditApp.csproj.AssemblyReference.cache
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\CreditApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\style.css.g.cs
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\CreditApp.AssemblyInfoInputs.cache
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\CreditApp.AssemblyInfo.cs
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\CreditApp.csproj.CoreCompileInputs.cache
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\CreditApp.dll
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\refint\CreditApp.dll
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\CreditApp.pdb
+C:\Users\st310-06\Documents\pr31_martynov\CreditApp\CreditApp\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs

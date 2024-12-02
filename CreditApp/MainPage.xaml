@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  
+xmlns="http://xamarin.com/schemas/2014/forms"  
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+x:Class="CreditApp.MainPage">
+    <ContentPage.Resources>
+        <StyleSheet Source="style.css" />
+    </ContentPage.Resources>
+    <StackLayout StyleId="body" Margin="20" >
+        <Label x:Name="header" StyleId="header" Text="Welcome"/>
+        <Entry x:Name="userLine" BackgroundColor ="White" Placeholder="Username" StyleClass="entries"/>
+        <Entry x:Name="passLine" BackgroundColor ="White" IsPassword="true" Placeholder="Password" StyleClass="entries"/>
+        <Button Text="Sign In" Clicked="Button_ClickedAsync" StyleClass="button"/>
+        <Grid ColumnSpacing="0" RowSpacing="0" x:Name="das">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="160" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <StackLayout  
+     Orientation="Horizontal" Grid.Row="0" Grid.Column="0">
+                <CheckBox  StyleClass="checkbox"/>
+                <Label Text="Remember me" VerticalOptions="Center" StyleClass="remember"/>
+            </StackLayout>
+
+            <Label Text="I forgot!" StyleClass="forgot" VerticalOptions="Center" HorizontalOptions="End" Grid.Row="0" Grid.Column="3"/>
+
+        </Grid>
+    </StackLayout>
+</ContentPage>
