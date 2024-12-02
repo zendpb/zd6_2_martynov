@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|solutionrelative:creditapp\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|c:\\users\\st310-06\\documents\\pr31_martynov\\creditapp\\creditapp\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|C:\\Users\\st310-06\\Documents\\pr31_martynov\\CreditApp\\creditapp\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|solutionrelative:creditapp\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|c:\\users\\st310-06\\documents\\pr31_martynov\\creditapp\\creditapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|C:\\Users\\st310-06\\Documents\\pr31_martynov\\CreditApp\\creditapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|solutionrelative:creditapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|c:\\users\\st310-06\\documents\\pr31_martynov\\creditapp\\creditapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|C:\\Users\\st310-06\\Documents\\pr31_martynov\\CreditApp\\creditapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|solutionrelative:creditapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|c:\\users\\st310-06\\documents\\pr31_martynov\\creditapp\\creditapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|C:\\Users\\st310-06\\Documents\\pr31_martynov\\CreditApp\\creditapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|solutionrelative:creditapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|c:\\users\\st310-06\\documents\\pr31_martynov\\creditapp\\creditapp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|C:\\Users\\st310-06\\Documents\\pr31_martynov\\CreditApp\\creditapp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{13505574-CABE-46E2-80A3-81CB0EF61772}|CreditApp\\CreditApp.csproj|solutionrelative:creditapp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "CreditApp\\TabbedPage1.xaml.cs",
               "ToolTip": "C:\\Users\\st310-06\\Documents\\pr31_martynov\\CreditApp\\CreditApp\\TabbedPage1.xaml.cs",
               "RelativeToolTip": "CreditApp\\TabbedPage1.xaml.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFMAAAABAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEUAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T08:24:59.544Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "CreditApp\\TabbedPage1.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T07:52:07.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:52:07.107Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "CreditApp\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:41:43.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:41:43.156Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "CreditApp\\MainPage.xaml.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAlwBcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T07:18:52.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T07:18:52.001Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "CreditApp\\MainPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-02T06:47:05.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:47:05.869Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "CreditApp\\style.css",
               "ViewState": "AQIAABoAAAAAAAAAAAAowC0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-02T06:50:54.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:50:54.463Z"
             }
           ]
         }
